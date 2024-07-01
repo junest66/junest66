@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20Jun's%20Github%20🙌🏻&animation=&fontColor=ffffff&fontSize=60">
+        src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20Jun's%20Github%20🙌🏻&animation=&fontColor=ffffff&fontSize=50">
 </div>
 <div align="center">
     <a href="https://hits.seeyoufarm.com"><img
