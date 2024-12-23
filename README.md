@@ -37,8 +37,8 @@
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <a href="https://solved.ac/chlwndks33">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chlwndks33" alt="Solved.ac Profile">
+    <a href="https://solved.ac/chlwndks33/">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwndks33" alt="Solved.ac Profile">
     </a>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=junest66&show_icons=true&theme=radical" />
