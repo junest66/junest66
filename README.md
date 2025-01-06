@@ -38,7 +38,7 @@
     <div align="center">
   <h2>📖 Latest Blog Posts</h2>
         <oi></oi>
-<!-- BLOG-POST-LIST:START --><div>1. <a href='https://velog.io/@joonchoi/DB-lock'>[DB] 락&lpar;Lock&rpar;</a></div><div>2. <a href='https://velog.io/@joonchoi/DB-select-execution-order'>[DB] SQL 실행 순서</a></div><div>3. <a href='https://velog.io/@joonchoi/DB-view'>[DB] 데이터베이스 뷰&lpar;VIEW&rpar;</a></div><div>4. <a href='https://velog.io/@joonchoi/DB-referential-integrity-casecade'>[DB] 참조무결성과 CASECADE</a></div><div>5. <a href='https://velog.io/@joonchoi/DB-sql-concept'>[DB] SQL 개념</a></div><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/DB-lock'>1. [DB] 락&lpar;Lock&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-select-execution-order'>2. [DB] SQL 실행 순서</a></div><div><a href='https://velog.io/@joonchoi/DB-view'>3. [DB] 데이터베이스 뷰&lpar;VIEW&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-referential-integrity-casecade'>4. [DB] 참조무결성과 CASECADE</a></div><div><a href='https://velog.io/@joonchoi/DB-sql-concept'>5. [DB] SQL 개념</a></div><!-- BLOG-POST-LIST:END -->
 </div>
 
 <div align="center">
