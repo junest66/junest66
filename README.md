@@ -38,6 +38,11 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Latest Blog Posts </h2> <br>
 <!-- BLOG-POST-LIST:START -->
+- [[DB] 락&lpar;Lock&rpar;](https://velog.io/@joonchoi/DB-lock)
+- [[DB] SQL 실행 순서](https://velog.io/@joonchoi/DB-select-execution-order)
+- [[DB] 데이터베이스 뷰&lpar;VIEW&rpar;](https://velog.io/@joonchoi/DB-view)
+- [[DB] 참조무결성과 CASECADE](https://velog.io/@joonchoi/DB-referential-integrity-casecade)
+- [[DB] SQL 개념](https://velog.io/@joonchoi/DB-sql-concept)
 <!-- BLOG-POST-LIST:END -->
 </div>
 <div align="center">
