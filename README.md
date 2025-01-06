@@ -36,7 +36,7 @@
     </div> <br>
 </div> -->
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Latest Blog Posts </h2> <br>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📖 Latest Blog Posts </h2> <br>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </div>
