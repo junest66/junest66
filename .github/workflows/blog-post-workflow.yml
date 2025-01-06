@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://v2.velog.io/rss/joonchoi"
-          template: "<div>$counter. <a href='$url'>$title</a></div>"
+          template: "<div><a href='$url'>$counter. $title</a></div>"
