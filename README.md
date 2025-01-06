@@ -37,7 +37,7 @@
 </div> -->
     <div align="center">
   <h2>📖 Latest Blog Posts</h2>
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --><li><a href='https://velog.io/@joonchoi/DB-lock'>[DB] 락&lpar;Lock&rpar;</a></li><li><a href='https://velog.io/@joonchoi/DB-select-execution-order'>[DB] SQL 실행 순서</a></li><li><a href='https://velog.io/@joonchoi/DB-view'>[DB] 데이터베이스 뷰&lpar;VIEW&rpar;</a></li><li><a href='https://velog.io/@joonchoi/DB-referential-integrity-casecade'>[DB] 참조무결성과 CASECADE</a></li><li><a href='https://velog.io/@joonchoi/DB-sql-concept'>[DB] SQL 개념</a></li><!-- BLOG-POST-LIST:END -->
 
 </div>
 
