@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/DB-subquery'>1. [DB] 서브쿼리 &lpar;Subquery&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-join'>2. [DB] 조인 &lpar;JOIN&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-lock'>3. [DB] 락 &lpar;Lock&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-SQL-%EC%A3%BC%EC%9A%94%EA%B5%AC%EB%AC%B8%EA%B3%BC-%EC%8B%A4%ED%96%89-%EC%88%9C%EC%84%9C'>4. [DB] SQL 주요구문과 실행 순서</a></div><div><a href='https://velog.io/@joonchoi/DB-view'>5. [DB] 뷰 &lpar;VIEW&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/DB-delete-truncate-drop'>1. [DB] DELETE, TRUNCATE, DROP</a></div><div><a href='https://velog.io/@joonchoi/DB-subquery'>2. [DB] 서브쿼리 &lpar;Subquery&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-join'>3. [DB] 조인 &lpar;JOIN&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-lock'>4. [DB] 락 &lpar;Lock&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-select-execution-order'>5. [DB] SQL 주요구문과 실행 순서</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
