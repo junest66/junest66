@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/DB-pagination'>1. [DB] 페이지네이션 &lpar;Pagination&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-sql-injection'>2. [DB] SQL Injection</a></div><div><a href='https://velog.io/@joonchoi/DB-delete-truncate-drop'>3. [DB] DELETE, TRUNCATE, DROP</a></div><div><a href='https://velog.io/@joonchoi/DB-subquery'>4. [DB] 서브쿼리 &lpar;Subquery&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-join'>5. [DB] 조인 &lpar;JOIN&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START -->test<!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
