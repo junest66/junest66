@@ -19,3 +19,4 @@ jobs:
           feed_list: "https://v2.velog.io/rss/joonchoi"
           template: "<div><a href='$url'>$counter. $title</a></div>"
           committer_username: "junest66"
+          committer_email: "chlwndks333@gmail.com"
