@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/db-index'>1. [DB] 인덱스&lpar;Index&rpar; 개념</a></div><div><a href='https://velog.io/@joonchoi/DB-pagination'>2. [DB] 페이지네이션 &lpar;Pagination&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-sql-injection'>3. [DB] SQL Injection</a></div><div><a href='https://velog.io/@joonchoi/DB-delete-truncate-drop'>4. [DB] DELETE, TRUNCATE, DROP</a></div><div><a href='https://velog.io/@joonchoi/DB-subquery'>5. [DB] 서브쿼리 &lpar;Subquery&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/db-explain-plan-hint'>1. [DB] 실행계획, 힌트</a></div><div><a href='https://velog.io/@joonchoi/db-index'>2. [DB] 인덱스&lpar;Index&rpar; 개념</a></div><div><a href='https://velog.io/@joonchoi/DB-pagination'>3. [DB] 페이지네이션 &lpar;Pagination&rpar;</a></div><div><a href='https://velog.io/@joonchoi/DB-sql-injection'>4. [DB] SQL Injection</a></div><div><a href='https://velog.io/@joonchoi/DB-delete-truncate-drop'>5. [DB] DELETE, TRUNCATE, DROP</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
