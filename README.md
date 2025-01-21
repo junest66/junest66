@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/db-functional-dependency'>1. [DB] 함수 종속성</a></div><div><a href='https://velog.io/@joonchoi/db-anomaly'>2. [DB] 이상 현상</a></div><div><a href='https://velog.io/@joonchoi/db-explain-plan-hint'>3. [DB] 실행계획, 힌트</a></div><div><a href='https://velog.io/@joonchoi/db-index'>4. [DB] 인덱스&lpar;Index&rpar; 개념</a></div><div><a href='https://velog.io/@joonchoi/DB-pagination'>5. [DB] 페이지네이션 &lpar;Pagination&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/db-normalization'>1. [DB] 정규화 &lpar;Normalization&rpar;</a></div><div><a href='https://velog.io/@joonchoi/db-functional-dependency'>2. [DB] 함수 종속성</a></div><div><a href='https://velog.io/@joonchoi/db-anomaly'>3. [DB] 이상 현상</a></div><div><a href='https://velog.io/@joonchoi/db-explain-plan-hint'>4. [DB] 실행계획, 힌트</a></div><div><a href='https://velog.io/@joonchoi/db-index'>5. [DB] 인덱스&lpar;Index&rpar; 개념</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
