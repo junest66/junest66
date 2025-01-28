@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/data-strucuture'>1. [자료구조] 자료구조 개념</a></div><div><a href='https://velog.io/@joonchoi/db-normalization'>2. [DB] 정규화 &lpar;Normalization&rpar;</a></div><div><a href='https://velog.io/@joonchoi/db-functional-dependency'>3. [DB] 함수 종속성</a></div><div><a href='https://velog.io/@joonchoi/db-anomaly'>4. [DB] 이상 현상</a></div><div><a href='https://velog.io/@joonchoi/db-explain-plan-hint'>5. [DB] 실행계획, 힌트</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/db-transaction'>1. [DB] 트랜잭션</a></div><div><a href='https://velog.io/@joonchoi/data-strucuture'>2. [자료구조] 자료구조 개념</a></div><div><a href='https://velog.io/@joonchoi/db-normalization'>3. [DB] 정규화 &lpar;Normalization&rpar;</a></div><div><a href='https://velog.io/@joonchoi/db-functional-dependency'>4. [DB] 함수 종속성</a></div><div><a href='https://velog.io/@joonchoi/db-anomaly'>5. [DB] 이상 현상</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
