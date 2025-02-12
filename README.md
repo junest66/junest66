@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/devops-kubernetes'>1. [DevOps] 쿠버네티스의 개념</a></div><div><a href='https://velog.io/@joonchoi/algorithm-lis'>2. [알고리즘] 최장 증가 부분 수열&lpar;LIS&rpar;</a></div><div><a href='https://velog.io/@joonchoi/jscode-db-retrospect'>3. 데이터베이스 면접 스터디 회고</a></div><div><a href='https://velog.io/@joonchoi/db-recovery'>4. [DB] 데이터베이스 회복</a></div><div><a href='https://velog.io/@joonchoi/db-transaction'>5. [DB] 트랜잭션</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/devops-pod'>1. [DevOps] 파드&lpar;Pod&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-kubernetes'>2. [DevOps] 쿠버네티스의 개념</a></div><div><a href='https://velog.io/@joonchoi/algorithm-lis'>3. [알고리즘] 최장 증가 부분 수열&lpar;LIS&rpar;</a></div><div><a href='https://velog.io/@joonchoi/jscode-db-retrospect'>4. 데이터베이스 면접 스터디 회고</a></div><div><a href='https://velog.io/@joonchoi/db-recovery'>5. [DB] 데이터베이스 회복</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
