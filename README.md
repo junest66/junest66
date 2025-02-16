@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/devops-k8s-command'>1. [DevOps] 쿠버네티스 명령어 모음</a></div><div><a href='https://velog.io/@joonchoi/devops-backend-pod'>2. [DevOps] 백엔드&lpar;Spring&rpar; 서버를 파드로 띄우기</a></div><div><a href='https://velog.io/@joonchoi/devops-pod'>3. [DevOps] 파드&lpar;Pod&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-kubernetes'>4. [DevOps] 쿠버네티스의 개념</a></div><div><a href='https://velog.io/@joonchoi/algorithm-lis'>5. [알고리즘] 최장 증가 부분 수열&lpar;LIS&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/devops-deployment'>1. [DevOps] 디플로이먼트 &lpar;Deployment&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-k8s-command'>2. [DevOps] 쿠버네티스 명령어 모음</a></div><div><a href='https://velog.io/@joonchoi/devops-backend-pod'>3. [DevOps] 백엔드&lpar;Spring&rpar; 서버를 파드로 띄우기</a></div><div><a href='https://velog.io/@joonchoi/devops-pod'>4. [DevOps] 파드&lpar;Pod&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-kubernetes'>5. [DevOps] 쿠버네티스의 개념</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
