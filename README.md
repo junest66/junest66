@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/signup-concurrency-issue-fix'>1. 회원가입 동시성 문제 해결</a></div><div><a href='https://velog.io/@joonchoi/devops-configmap-secret'>2. [DevOps] ConfigMap, Secret</a></div><div><a href='https://velog.io/@joonchoi/devops-service'>3. [DevOps] 서비스&lpar;Service&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-deployment'>4. [DevOps] 디플로이먼트 &lpar;Deployment&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-k8s-command'>5. [DevOps] 쿠버네티스 명령어 모음</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/codetree-github-subtree'>1. codetree 깃허브 연동 시 기존 레포의 폴더안으로 연동하기</a></div><div><a href='https://velog.io/@joonchoi/signup-concurrency-issue-fix'>2. 회원가입 동시성 문제 해결</a></div><div><a href='https://velog.io/@joonchoi/devops-configmap-secret'>3. [DevOps] ConfigMap, Secret</a></div><div><a href='https://velog.io/@joonchoi/devops-service'>4. [DevOps] 서비스&lpar;Service&rpar;</a></div><div><a href='https://velog.io/@joonchoi/devops-deployment'>5. [DevOps] 디플로이먼트 &lpar;Deployment&rpar;</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
