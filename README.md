@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/%EC%B2%B4%ED%97%98-%EC%9D%BC%EC%A7%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%93%B1%EB%A1%9D-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0'>1. 체험 일지 이미지 등록 성능 개선</a></div><div><a href='https://velog.io/@joonchoi/codetree-github-subtree'>2. codetree 깃허브 연동 시 기존 레포의 폴더안으로 연동하기</a></div><div><a href='https://velog.io/@joonchoi/signup-concurrency-issue-fix'>3. 회원가입 동시성 문제 해결</a></div><div><a href='https://velog.io/@joonchoi/devops-configmap-secret'>4. [DevOps] ConfigMap, Secret</a></div><div><a href='https://velog.io/@joonchoi/devops-service'>5. [DevOps] 서비스&lpar;Service&rpar;</a></div><!-- BLOG-POST-LIST:END -->
+        <!-- BLOG-POST-LIST:START --><div><a href='https://velog.io/@joonchoi/%EC%B2%B4%ED%97%98-%EC%9D%BC%EC%A7%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%93%B1%EB%A1%9D-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0'>1. 체험일지 이미지 등록 성능 개선 – Presigned URL &lpar;1&rpar;</a></div><div><a href='https://velog.io/@joonchoi/codetree-github-subtree'>2. codetree 깃허브 연동 시 기존 레포의 폴더안으로 연동하기</a></div><div><a href='https://velog.io/@joonchoi/signup-concurrency-issue-fix'>3. 회원가입 동시성 문제 해결</a></div><div><a href='https://velog.io/@joonchoi/devops-configmap-secret'>4. [DevOps] ConfigMap, Secret</a></div><div><a href='https://velog.io/@joonchoi/devops-service'>5. [DevOps] 서비스&lpar;Service&rpar;</a></div><!-- BLOG-POST-LIST:END -->
       </td>
     </tr>
   </table>
