@@ -35,6 +35,20 @@
         </a>
     </div> <br>
 </div> -->
+
+<div align="center">
+
+## 🚀 Projects
+
+| 프로젝트명 | 설명 | 기간 | 링크 |
+| ---------- | ---- | ---- | ---- |
+| 🌊 [숨비소리](https://www.sumbisori.site/home) | 제주 해녀체험 서비스  | 2024/11 ~ 2025/05 | [GitHub](https://github.com/sumbisori/sumbisori-backend) |
+| 🧀 [치즈마켓](https://chzzmarket.store/) | 중고거래 경매 서비스 | 2024/07 ~ 2024/12 | [GitHub](https://github.com/junest66/Chzz-Market-Backend) |
+| 🎙️ [Interview Partner](https://interviewpartner.shop/) | AI 면접 및 화상 모의면접 서비스 | 2024/04 ~ 2024/06 | [GitHub](https://github.com/junest66/interview-partner) |
+| 🌤️ 이거 어때요 | AI를 활용한 날씨와 금융 데이터로 최적의 카드 혜택 및 가맹점을 추천하는 서비스 | 2023/10 ~ 2023/12 | [GitHub](https://github.com/junest66/ClimateShoppingTrends) |
+
+</div>
+
 <div align="center">
   <h2>📖 Latest Blog Posts</h2>
   <table>
