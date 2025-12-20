@@ -42,6 +42,7 @@
 
 | 프로젝트명 | 설명 | 기간 | 링크 |
 | ---------- | ---- | ---- | ---- |
+| 🏞️ [FallayList](https://fallaylist.com/home) | 강원도 계곡 여행 플랫폼 | 25.07 ~ 25.10 | [GitHub](https://github.com/fallaylist/fallaylist-backend) |
 | 🌊 [숨비소리](https://www.sumbisori.site/home) | 제주 해녀체험 서비스  | 24.11 ~ 25.05 | [GitHub](https://github.com/sumbisori/sumbisori-backend) |
 | 🧀 [치즈마켓](https://chzzmarket.store/) | 중고거래 경매 서비스 | 24.07 ~ 24.12 | [GitHub](https://github.com/junest66/Chzz-Market-Backend) |
 | 🎙️ [Interview Partner](https://interviewpartner.shop/) | AI 면접 및 화상 모의면접 서비스 | 24.04 ~ 24.06 | [GitHub](https://github.com/junest66/interview-partner) |
